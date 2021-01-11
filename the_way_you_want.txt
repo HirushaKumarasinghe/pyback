@@ -1,0 +1,5 @@
+git clone -b IT17004732 http://gitlab.sliit.lk/2020-180/2020-180.git
+
+
+git config --global user.email "it17004732@my.sliit.lk"
+git config --global user.name "Chamudini"
